@@ -44,16 +44,13 @@
   
   Проект демонстрирует мою способность быстро разбираться в данных и находить инсайты.  
 
-## 🛠 Технологии и инструменты
-Python (pandas, numpy, scikit‑learn, matplotlib, seaborn)
-
-Jupyter / VS Code
-
-Git, GitHub
-
-Математические и статистические методы
-
-ML‑пайплайны и аналитические отчёты
+## 🛠 Технологии и инструментыPython (pandas, numpy, scikit‑learn, matplotlib, seaborn)  
+-  Python (pandas, numpy, scikit‑learn, matplotlib, seaborn)
+-  Jupyter / VS Code
+-  Git, GitHub
+-  Математические и статистические методы
+-  ML‑пайплайны и аналитические отчёты
+  
 <!--
 **mouse65/mouse65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -66,8 +66,9 @@
 
 ## 📬 Связаться со мной  
 
-Email: mikhail.ds.work@proton.me  
-Telegram: @your_telegram_username  
+Email: phythmatik@gmail.com  
+Telegram: @Mik_Sin  
+
 Готов к обсуждению задач в области анализа данных и машинного обучения.
 
 

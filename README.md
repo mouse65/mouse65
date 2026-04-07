@@ -68,17 +68,9 @@
 
 ## 📬 Связаться со мной  
 Email: [phythmatik@gmail.com](mailto:phythmatik@gmail.com)
-
-
 Telegram:[@Mik_Sin](https://t.me/Mik_Sin)  
 
 Готов к обсуждению задач в области анализа данных и машинного обучения.
-
-📬 Контакты  
-Email: [phythmatik@gmail.com](mailto:phythmatik@gmail.com)  
-Telegram: [@your_telegram_username](https://t.me/your_telegram_username)    
-Готов к обсуждению задач в области анализа данных и машинного обучения.
-
 <!--
 **mouse65/mouse65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

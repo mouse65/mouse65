@@ -75,7 +75,7 @@ Telegram: @Mik_Sin
 
 📬 Контакты  
 Email: [mikhail.ds.work@proton.me](mailto:mikhail.ds.work@proton.me)  
-Telegram: [@your_telegram_username](https://t.me/your_telegram_username)  
+Telegram: [@your_telegram_username](https://t.me/your_telegram_username)    
 Готов к обсуждению задач в области анализа данных и машинного обучения.
 
 <!--

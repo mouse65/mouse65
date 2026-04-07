@@ -74,7 +74,7 @@ Telegram:[@Mik_Sin](https://t.me/Mik_Sin)
 Готов к обсуждению задач в области анализа данных и машинного обучения.
 
 📬 Контакты  
-Email: [mikhail.ds.work@proton.me](mailto:mikhail.ds.work@proton.me)  
+Email: [phythmatik@gmail.com](mailto:phythmatik@gmail.com)  
 Telegram: [@your_telegram_username](https://t.me/your_telegram_username)    
 Готов к обсуждению задач в области анализа данных и машинного обучения.
 

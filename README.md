@@ -69,7 +69,7 @@
 ## 📬 Связаться со мной  
 
 Email: phythmatik@gmail.com  
-Telegram: @Mik_Sin[@Mik_Sin](https://t.me/Mik_Sin)  
+Telegram:[@Mik_Sin](https://t.me/Mik_Sin)  
 
 Готов к обсуждению задач в области анализа данных и машинного обучения.
 

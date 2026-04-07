@@ -17,7 +17,7 @@
 ## 📂 Портфолио проектов
 Каждый проект демонстрирует отдельный тип задач, с которыми я работаю.  
 **1. Финальный ML‑проект: полный цикл разработки модели**   
-📎 https://github.com/mouse65/final_project (github.com in Bing)  
+📎 https://github.com/mouse65/final_project (github.com in Bing)   (github.com in Bing) 
 Что внутри:
 -  Чистый, аккуратный пайплайн
 -  Исследовательский анализ

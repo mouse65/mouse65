@@ -83,5 +83,5 @@ This project focuses on data analysis and visualization:
 ## 📬 Contact
 
 Email: [phythmatik@gmail.com](mailto:phythmatik@gmail.com)  
-Telegram: [@your_telegram_username](https://t.me/your_telegram_username)  
+Telegram: [@Mik_Sin](https://t.me/Mik_Sin)  
 Available for data analysis and machine learning projects.

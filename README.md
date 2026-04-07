@@ -58,7 +58,7 @@
 - Аналитика данных: EDA, визуализация, статистика  
 - Математическое моделирование  
 - Python: pandas, numpy, scikit-learn, matplotlib, seaborn  
-- Git, GitHub, Jupyter Notebook
+- Git, GitHub, Jupyter Notebook, VS-code  
 
 ##  🧭 Как я работаю
 **1.**  Понимание задачи — уточняю цели, ограничения, критерии успеха

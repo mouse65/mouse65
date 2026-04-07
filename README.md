@@ -73,6 +73,10 @@ Telegram: @Mik_Sin
 
 Готов к обсуждению задач в области анализа данных и машинного обучения.
 
+📬 Контакты  
+Email: [mikhail.ds.work@proton.me](mailto:mikhail.ds.work@proton.me)  
+Telegram: [@your_telegram_username](https://t.me/your_telegram_username)  
+Готов к обсуждению задач в области анализа данных и машинного обучения.
 
 <!--
 **mouse65/mouse65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
